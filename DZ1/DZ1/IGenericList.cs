@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DZ1
 {
-    interface IGenericList <X>
+    interface IGenericList <X> : IEnumerable<X>
     {
         /// <summary >
         /// Adds an item to the collection .

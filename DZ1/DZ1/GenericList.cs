@@ -22,6 +22,17 @@ namespace DZ1
             Console.WriteLine(_internalStorage.Length + "bla");
         }
 
+        //// IEnumerable <X> implementation koji ne radi
+        public IEnumerator<X> GetEnumerator()
+        {
+            return new GenericListEnumerator<X>(this);
+        }
+        System.Collections.IEnumerator System.Collections.IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
+        //metode
+
         public void Add(X item)
         {
             if (itemNumber >= _internalStorage.Length)
