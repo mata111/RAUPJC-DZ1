@@ -16,6 +16,7 @@ namespace DZ1
             int initialSize = 5;
 
             IntegerList lista = new IntegerList(initialSize);
+            GenericList<int> generic_lista = new GenericList<int>(initialSize);
 
             Console.WriteLine(lista.Count);
             for (int count = 0; count < 5; count++)
