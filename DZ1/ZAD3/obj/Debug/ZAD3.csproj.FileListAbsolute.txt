@@ -1,0 +1,5 @@
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD3\bin\Debug\ZAD3.exe.config
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD3\bin\Debug\ZAD3.exe
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD3\bin\Debug\ZAD3.pdb
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD3\obj\Debug\ZAD3.exe
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD3\obj\Debug\ZAD3.pdb

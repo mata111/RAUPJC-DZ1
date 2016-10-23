@@ -1,6 +1,0 @@
-C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\DZ1\bin\Debug\DZ1.exe.config
-C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\DZ1\obj\Debug\DZ1.csprojResolveAssemblyReference.cache
-C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\DZ1\bin\Debug\DZ1.exe
-C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\DZ1\bin\Debug\DZ1.pdb
-C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\DZ1\obj\Debug\DZ1.exe
-C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\DZ1\obj\Debug\DZ1.pdb

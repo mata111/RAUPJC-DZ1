@@ -1,0 +1,6 @@
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD1\bin\Debug\ZAD1.exe.config
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD1\bin\Debug\ZAD1.exe
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD1\bin\Debug\ZAD1.pdb
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD1\obj\Debug\ZAD1.csprojResolveAssemblyReference.cache
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD1\obj\Debug\ZAD1.exe
+C:\Users\malen\Desktop\c#\RAUPJC-DZ1\DZ1\ZAD1\obj\Debug\ZAD1.pdb
